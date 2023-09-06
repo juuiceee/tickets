@@ -1,0 +1,19 @@
+.flight-path {
+  position: relative;
+}
+
+.flight-line {
+  width: 90%; 
+  height: 1px; 
+  background-color: #bababa; 
+  position: absolute;
+  top: 20%;
+  left: 0;
+}
+
+.airplane {
+  position: absolute;
+  top: 11%;
+  left: 90%; 
+  width: 20px; 
+}
